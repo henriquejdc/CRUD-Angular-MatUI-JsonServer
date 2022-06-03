@@ -1,4 +1,14 @@
-# AngularCrud
+##  Angular 13 CRUD with Angular Material UI | json-server | Angular Reactive Form
+This is a CRUD products with Angular, Angular Material UI, json-server and Angular Reactive Form
+[here](https://youtu.be/jGbP620NahE)
+
+## IMPLEMENT
+Implemented in Visual Code
+
+## How to run the Project
+- Run a Angular
+- Run a Json-Server
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
